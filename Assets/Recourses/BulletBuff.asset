@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bb07642137b57048b73d8a8efa55366, type: 3}
+  m_Name: BulletBuff
+  m_EditorClassIdentifier: 
+  ItemPrefab: {fileID: 8171739482632410439, guid: bfc7c3c5e493d5748bb9f7f2c9cfc4e4, type: 3}
+  DropRate: 0.2
